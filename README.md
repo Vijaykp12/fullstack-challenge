@@ -31,8 +31,25 @@ Refer to the pdf attached in the repository for more details on the problem stat
 
 ## 📤 Submission
 - Upload your code to GitHub or share as a CodeSandbox/StackBlitz link
-- Include instructions to run the app locally (e.g., npm install && npm run dev)
+- Include instructions to run the app locally (see below)
 - (Optional) Deploy and share a live link using Vercel, Netlify, etc.
+
+## 🚀 How to Run Locally
+
+We have provided a unified runner script `run.py` at the root of the repository. Running it will automatically initialize the Python virtual environment, install backend dependencies, install frontend node modules, and launch both dev servers concurrently.
+
+### Prerequisites
+* Python 3.10+ installed
+* Node.js & NPM installed
+
+### Startup Command
+From the root of the repository, execute:
+```bash
+python run.py
+```
+
+* **Frontend Web App**: http://localhost:3000
+* **Backend GraphQL Playground**: http://localhost:8000/graphql
 
 ## Connect with Us:
 
