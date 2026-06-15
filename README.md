@@ -27,7 +27,9 @@ Design and implement a full-stack, role-based food ordering web application wher
 
 ## Reference:
 
-Refer to the pdf attached in the repository for more details on the problem statement
+Refer to the pdf attached in the repository for more details on the problem statement.
+
+For detailed information on design decisions, SQLite database models, seeded datasets, and the copy-pasteable GraphQL API Query Collection, refer to our [ARCHITECTURE.md](./ARCHITECTURE.md).
 
 ## 📤 Submission
 - Upload your code to GitHub or share as a CodeSandbox/StackBlitz link
